@@ -1,0 +1,1 @@
+D:\Service Fabric\Demonstrations\ProductServicesContHosting\ProductServicesContHosting\obj\x64\Debug\ProductServicesContHosting.sfproj.CoreCompileInputs.cache
